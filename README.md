@@ -10,3 +10,4 @@ Here's a style guide for poems:
 - The third line should be the name of the author, in Title Case or usual styling (Looking at e e cummings again.) If anonymous, this line should contain `Anonymous`.
 - The fourth line should be the the birth and death years of the author. This should take the form `YYYY - YYYY` or `b. YYYY` if the author is living. If the author's birth or death year is only approximate, write e.g. `c. YYYY - YYYY` or `c. YYYY - c. YYYY`.
 - Follow this with two blank lines and then the text of the poem.
+- Do not end files with a newline.
